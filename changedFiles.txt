@@ -1,0 +1,8 @@
+changedFiles.txt
+folderA/FileA.txt
+folderB/FileB.txt
+folderBig/folderD/FileA.txt
+folderBig/folderE/FileB.txt
+folderC/FileC.txt
+git-logTest.rb
+space holder/textHoge.txt
